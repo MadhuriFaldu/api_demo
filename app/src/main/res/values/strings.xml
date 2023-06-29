@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PracticalTask</string>
+
+    <string name="please_enter_email_id">Please enter email id!</string>
+    <string name="please_enter_valid_email_id">Please enter valid email id!</string>
+    <string name="please_enter_password">Please enter password!</string>
+
+    <string name="user_not_found">User not found!</string>
+    <string name="wrong_password">Wrong password</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_email">Enter email</string>
+
+</resources>
